@@ -1,0 +1,7 @@
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\bin\Debug\Dog Year Machine.exe.config
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\bin\Debug\Dog Year Machine.exe
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\bin\Debug\Dog Year Machine.pdb
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\obj\Debug\Dog Year Machine.csprojAssemblyReference.cache
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\obj\Debug\Dog Year Machine.csproj.CoreCompileInputs.cache
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\obj\Debug\Dog Year Machine.exe
+D:\Josh's Programs\Visual Studio\C Sharp\Dog Year Machine\Dog Year Machine\obj\Debug\Dog Year Machine.pdb
